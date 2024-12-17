@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asirahbab01
 - 👀 I’m interested in participating CTF competitions(Cybersecurity)
-- 🌱 I’m currently learning Computer Science & Engineering(CSE) at MIST
+- 🌱 I’m currently studying in Computer Science & Engineering(CSE) at MIST.
 - 💞️ I’m looking to work on Computer Network Management sector...
 - 💞️ I’m also an enthusiastic learner in tryhackme; an online based platform to learn concepts based on cybersecurity. https://tryhackme.com/r/p/ahbab.raiyan 
 - 📫 How to reach me https://www.facebook.com/asirahbab.raiyan is my social network
