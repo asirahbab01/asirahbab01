@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bangla Sign Recognition](https://github.com/sabbir-063/BSL_Thesis)
 
-- 🌱 I’m currently learning **Graphics designing, ML model**
+- 🌱 I’m currently learning **Artificial Intelligence(AI), Machine Learning(ML) models, Android App Development, Networking Design & Protocol**
 
 - 🤝 I’m looking for help with [AgroApp](https://github.com/asirahbab01/first_app)
 
