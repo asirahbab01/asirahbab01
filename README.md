@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [Bangla Sign Recognition](https://github.com/sabbir-063/BSL_Thesis)
 
-- 🌱 I’m currently learning **Artificial Intelligence(AI), Machine Learning(ML) models, Android App Development, Networking Design & Protocol**
+- 🌱 I’m currently learning **Artificial Intelligence(AI), Machine Learning(ML) models, Android App Development, Networking Design & Protocol, Android Application Penetration Testing**
 
 - 🤝 I’m looking for help with [AgroApp](https://github.com/asirahbab01/first_app)
 
 - 👨‍💻 All of my projects are available at [Asir Ahbab Raiyan](https://asir-ahbab-01.netlify.app/)
-
-- 💬 Ask me about **flutter**
 
 - 📫 How to reach me **ahbab.raiyan@gmail.com**
 
