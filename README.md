@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asir Ahbab Raiyan</h1>
 <h3 align="center">🚀 Network Engineer | Flutter Developer | Penetration Tester</h3>
-<img align="right" alt="Harvesting" width="460" src=https://github.com/asirahbab01/asirahbab01/blob/main/Harvesting.gif?raw=true">
+<img align="right" alt="Harvesting" width="440" src=https://github.com/asirahbab01/asirahbab01/blob/main/Harvesting.gif?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirahbab01&label=Profile%20views&color=0e75b6&style=flat" alt="asirahbab01" /> </p>
@@ -20,11 +20,11 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/asir-ahbab-raiyan-188045259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asir-ahbab-raiyan-188045259" height="40"/></a>
-<a href="https://kaggle.com/asirahbabraiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asirahbabraiyan" height="40"/></a>
+<a href="https://linkedin.com/in/asir-ahbab-raiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asir-ahbab-raiyan-188045259" height="30"/></a>
+<a href="https://kaggle.com/asirahbabraiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asirahbabraiyan" height="35"/></a>
 <a href="https://fb.com/asirahbab.raiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asirahbab.raiyan" height="30"/></a>
-<a href="https://www.codechef.com/users/ahbabraiyan200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahbabraiyan200" height="40"/></a>
-<a href="https://www.hackerrank.com/profile/asir_ahbabraiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahbab_raiyan" height="40" /></a>
+<a href="https://www.codechef.com/users/ahbabraiyan200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahbabraiyan200" height="35"/></a>
+<a href="https://www.hackerrank.com/profile/asir_ahbabraiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahbab_raiyan" height="30" /></a>
 </p>
 
 ### 🛠️ Languages & Tools
